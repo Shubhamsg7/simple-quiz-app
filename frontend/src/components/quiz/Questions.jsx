@@ -48,7 +48,7 @@ const Questions = () => {
                     ) : (
                         <div className='w-screen h-screen bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500'>
                             <div className='flex justify-center items-center h-screen p-4'>
-                                <div className='w-full md:w-2/3 h-[90%] border-2 border-dashed p-1 rounded-3xl' >
+                                <div className='w-full md:w-2/3 h-[95%] border-2 border-dashed p-1 rounded-3xl' >
                                     <div className='bg-slate-100 dark:bg-gray-900 rounded-3xl shadow-lg overflow-hidden relative h-full'>
                                         <div className="bg bg-gradient-to-r from-indigo-500/50 via-purple-500/50 to-pink-500/50">
                                         </div>
